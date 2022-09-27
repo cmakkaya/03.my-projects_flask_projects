@@ -1,0 +1,21 @@
+Lütfen clarusway-aws-devops-12 repomuzu "git pull" ile güncelleyelim.
+
+Aşağıdaki komutlar ile Flask'imizi güncelleyelim:
+
+pip3 install flask-mysql
+pip3 install sqlalchemy
+pip3 install Flask-SQLAlchemy
+
+AWS konsola N.Virginia'dan bağlanalım.
+
+EC2 ve RDS servislerini ayrı sekmelerde açalım.
+
+Aşağıda linklerini verdiğim 2 siteyi açalım.
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/config/
+https://code.tutsplus.com/tr/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
+
+Bugün database konusuna gireceğiz. Uçmaya hazır olalım.
+
+
+Hocanın verdiği komutları lokalde WSL (Ubuntu) tarafında çalıştıramayanlar aşağıdaki komutu girdikten sonra denerlerse kodlar çalışacaktır:
+sudo apt install python3-pip
