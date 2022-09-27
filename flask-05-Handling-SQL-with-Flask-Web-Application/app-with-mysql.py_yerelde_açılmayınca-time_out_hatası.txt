@@ -1,0 +1,5 @@
+app-with-mysql.py_yerelde_açılmayınca (time out hatası):
+
+RDS te database tıklayıp,
+Connectivity & security > Security > VPC security groups altındaki
+default (sg-00eef3f21d4e202d8) tıkladık inbounda gelip edit dedik ve mysql/auro 3306 portunu açtık.

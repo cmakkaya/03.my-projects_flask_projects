@@ -19,3 +19,13 @@ Bugün database konusuna gireceğiz. Uçmaya hazır olalım.
 
 Hocanın verdiği komutları lokalde WSL (Ubuntu) tarafında çalıştıramayanlar aşağıdaki komutu girdikten sonra denerlerse kodlar çalışacaktır:
 sudo apt install python3-pip
+
+Hocadan:
+Local de sorun olanlar için en baştan update etmek isteyenler için....
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt install python3-pip
+sudo pip3 install flask
+pip3 install flask-mysql
+pip3 install sqlalchemy
+pip3 install Flask-SQLAlchemy
